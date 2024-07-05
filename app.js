@@ -9,3 +9,7 @@ const register = () => {
 const getMe = () => {
   return true;
 };
+
+const addCourse = (course) => {
+  return course;
+};
