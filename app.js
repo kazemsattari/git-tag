@@ -13,3 +13,7 @@ const getMe = () => {
 const addCourse = (course) => {
   return course;
 };
+
+const removeCourse = (courseID) => {
+  return true;
+};
