@@ -17,3 +17,7 @@ const addCourse = (course) => {
 const removeCourse = (courseID) => {
   return true;
 };
+
+const removeArticle = (articleID) => {
+  return true;
+};
