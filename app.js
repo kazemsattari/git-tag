@@ -25,3 +25,7 @@ const removeArticle = (articleID) => {
 const addArticle = (article) => {
   return true;
 };
+
+const likePost = (postID, userID) => {
+  // Codes
+};
