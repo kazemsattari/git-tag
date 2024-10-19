@@ -28,4 +28,5 @@ const addArticle = (article) => {
 
 const likePost = (postID, userID) => {
   // Codes
+  return { post: postID, user: userID, isLike: true };
 };
